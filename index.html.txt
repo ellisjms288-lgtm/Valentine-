@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>For Kaz ❤️</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #fff8f0;
+        color: #333;
+        text-align: center;
+        padding: 40px;
+    }
+    .container {
+        max-width: 650px;
+        margin: auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 { color: #e63946; }
+    p { font-size: 18px; line-height: 1.6; margin-bottom: 16px; }
+    iframe {
+        margin-top: 20px;
+        width: 100%;
+        height: 50px;
+        border: none;
+    }
+    .flower {
+        width: 150px;
+        margin-bottom: 20px;
+        border-radius: 15px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <!-- Sunflower image -->
+    <img src="https://i.ibb.co/ZYW3VTp/sunflower.png" alt="Sunflower" class="flower">
+
+    <h1>Happy Valentine’s Day, Kaz ❤️</h1>
+
+    <p>There’s something about you that’s hard to explain — not loud, not flashy… just real.</p>
+    <p>The way you care. The way you notice small things. The way you try, even when you’re tired or busy. It’s inspiring.</p>
+    <p>Some days, you might not realize how much of a difference you make to the people around you. But I want you to know: your presence matters. Your heart matters. You matter.</p>
+    <p>Even in quiet, ordinary moments, you bring warmth, comfort, and light. It’s in the little things — your smile, your laugh, your thoughtfulness.</p>
+    <p>I hope you know how much you’re appreciated and how much love surrounds you, even if it isn’t always said out loud.</p>
+    <p>You make life better for everyone who has the chance to know you. You inspire, you care, you support, and you bring joy just by being yourself.</p>
+    <p>So today, I hope you pause for a moment and feel it: the love, the gratitude, the admiration for everything that you are.</p>
+    <p>From your kindness to your quiet strength, I admire you more than you’ll ever know. And I hope this message reminds you that you are truly special. 🌻</p>
+
+    <!-- YouTube embed: chorus autoplay -->
+    <iframe src="https://www.youtube.com/embed/0yWx2v0NnZQ?autoplay=1&start=65&controls=0&loop=1&playlist=0yWx2v0NnZQ"
+      allow="autoplay; encrypted-media"
+      allowfullscreen>
+    </iframe>
+</div>
+</body>
+</html>
